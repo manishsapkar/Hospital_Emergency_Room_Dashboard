@@ -26,3 +26,4 @@ To design a real-time, clear, and actionable Excel dashboard to support hospital
 💡 Tools Used:
 Microsoft Excel (Data visualization, formulas, area charts, dynamic controls)
 Design elements for better clarity and impact
+![image alt](https://github.com/manishsapkar/Hospital_Emergency_Room_Dashboard/blob/978360ec5804fe38f49fc80a6f7d3b3b176b549c/Hospital%20emergency%20room%20dashboard%20jpg.jpg)
